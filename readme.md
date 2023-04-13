@@ -1,6 +1,6 @@
 # Blog de Café ☕️
 
-<img src="img/banner.jpg" href="https://randy-urriola.github.io/Blog_cafe/"/>
+<a href="https://randy-urriola.github.io/Blog_cafe/"><img src="img/banner.jpg"/></a>
 
 ## **Description**
 

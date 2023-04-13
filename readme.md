@@ -50,3 +50,8 @@ This is for present some info reffering to the Nuestro Blog part in the Index se
 </p>
 
 :blush: If you wanna watch this proyect you can do it <a href="https://randy-urriola.github.io/Blog_cafe/" target="blank">Here</a>
+
+## 💻 Programming Lenguages and Tools used:
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"></code>&nbsp;&nbsp;
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"></code>&nbsp;&nbsp;
+<code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode"></code>&nbsp;&nbsp;
